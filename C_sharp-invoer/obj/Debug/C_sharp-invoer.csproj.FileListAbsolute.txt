@@ -1,0 +1,10 @@
+C:\.github_desktop\C_sharp-invoer\C_sharp-invoer\bin\Debug\C_sharp-invoer.exe.config
+C:\.github_desktop\C_sharp-invoer\C_sharp-invoer\bin\Debug\C_sharp-invoer.exe
+C:\.github_desktop\C_sharp-invoer\C_sharp-invoer\bin\Debug\C_sharp-invoer.pdb
+C:\.github_desktop\C_sharp-invoer\C_sharp-invoer\obj\Debug\C_sharp-invoer.csproj.AssemblyReference.cache
+C:\.github_desktop\C_sharp-invoer\C_sharp-invoer\obj\Debug\C_sharp_invoer.Form1.resources
+C:\.github_desktop\C_sharp-invoer\C_sharp-invoer\obj\Debug\C_sharp_invoer.Properties.Resources.resources
+C:\.github_desktop\C_sharp-invoer\C_sharp-invoer\obj\Debug\C_sharp-invoer.csproj.GenerateResource.cache
+C:\.github_desktop\C_sharp-invoer\C_sharp-invoer\obj\Debug\C_sharp-invoer.csproj.CoreCompileInputs.cache
+C:\.github_desktop\C_sharp-invoer\C_sharp-invoer\obj\Debug\C_sharp-invoer.exe
+C:\.github_desktop\C_sharp-invoer\C_sharp-invoer\obj\Debug\C_sharp-invoer.pdb
